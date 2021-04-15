@@ -1,0 +1,25 @@
+.grid {
+    display:flex;
+    flex-wrap:wrap;
+
+    border: 2px solid black;
+    border-radius:50px;
+}
+.Origami {
+    display:flex;
+    border-radius:20px;
+    background-color:white;
+
+    width:310px;
+    font-family: fantasy;
+    justify-content: center;
+   
+
+
+}
+
+.menu {
+    display:flex;
+  
+    
+}
