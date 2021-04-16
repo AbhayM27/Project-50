@@ -1,25 +1,38 @@
 .grid {
+
+    border: 10px double black;
+    border-radius:50px;
     display:flex;
     flex-wrap:wrap;
+    justify-content: space-evenly;
+    background-color:aquamarine;
+    
 
-    border: 2px solid black;
-    border-radius:50px;
 }
 .Origami {
-    display:flex;
-    border-radius:20px;
-    background-color:white;
+
+    border: 5px solid black;
+    border-top: 50px;
+    border-bottom: 50px;
+    border-radius:10 px;
+    background-color:aqua;
+   
 
     width:310px;
     font-family: fantasy;
-    justify-content: center;
-   
-
+    
+    
 
 }
 
 .menu {
+    
     display:flex;
+    justify-content: space-evenly;
+    background-image: url("main2.png");
+    background-position: center;
+    background-size: 2000px 800px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   
     
 }
